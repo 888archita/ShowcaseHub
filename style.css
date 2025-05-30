@@ -1,5 +1,5 @@
 body{
-    background-color: #0a1931;
+    background-color: #0f2546;
     margin: 0;
     padding: 0;
     border: solid black;
@@ -32,7 +32,7 @@ body{
 }
 
 .intro-text{
-    background-color: black;
+    background-color:#112d4e;
     color: rgb(255, 247, 235);
     padding: 20px;
     border-radius: 10px;
@@ -54,7 +54,7 @@ body{
 }
 
 .profile{
-    background: black;
+    background:#112d4e;
     padding: 20px;
     border-radius: 15px;
 }
@@ -89,7 +89,7 @@ body{
     padding: 12px;
     border-radius: 10px;
     text-align: center;
-    background-color: black;
+    background-color:#112d4e;
     color: rgb(255, 236, 235);
     font-weight: bold;
     border-top: 1px solid #2c3e50;
